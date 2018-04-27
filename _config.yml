@@ -1,20 +1,20 @@
 # Setup
-title:        Project or Site name
+title:        LZXprogrammer
 tagline:      A responsive theme for your project on GitHub Pages
 baseurl:      ""
 paginate:     1
-locale:       "en"
+locale:       "zh_CN"
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com
-
+  name:       Zhenxing Liu
+  url:        LZXprogrammer.github.io
 # Gems
 gems:
   - jekyll-paginate
 
 #Others
 markdown: kramdown
+
 
 host: 0.0.0.0
